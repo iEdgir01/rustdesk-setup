@@ -1,0 +1,12 @@
+.worktrees/
+AGENTS.md
+ai-context/
+CLAUDE.md
+.claude/
+.superpowers/
+.env
+.env.*
+__pycache__/
+graphify-out/
+.graphify/
+*.exe
